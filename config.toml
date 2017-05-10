@@ -50,56 +50,6 @@ googleAnalytics = "UA-42250843-3"
 	weight = 20
 	identifier = "docs"
 
-#[[menu.main]]
-#	name = "liboping(3)"
-#	url = "/documentation/liboping/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "oping(8)"
-#	url = "/documentation/oping/"
-#	parent = "docs"
-#
-#
-#[[menu.main]]
-#	name = "ping_construct(3)"
-#	url = "/documentation/ping_construct/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_get_error(3)"
-#	url = "/documentation/ping_get_error/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_host_add(3)"
-#	url = "/documentation/ping_host_add/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_iterator_get_context(3)"
-#	url = "/documentation/ping_iterator_get_context/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_iterator_get_info(3)"
-#	url = "/documentation/ping_iterator_get_info/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_get(3)"
-#	url = "/documentation/ping_iterator_get/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_send(3)"
-#	url = "/documentation/ping_send/"
-#	parent = "docs"
-#
-#[[menu.main]]
-#	name = "ping_setopt(3)"
-#	url = "/documentation/ping_setopt/"
-#	parent = "docs"
 
 [social]
 	twitter = "flocto"
@@ -108,7 +58,7 @@ googleAnalytics = "UA-42250843-3"
 
 
 [blackfriday]
-	smartypants	= true
-	fractions = true
-	smartDashes = true
+	smartypants    = true
+	fractions      = true
+	smartDashes    = true
 	plainIDAnchors = true

@@ -9,7 +9,7 @@ googleAnalytics = "UA-42250843-3"
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
+	author = "Florian Forster"
 	description = "C library for ICMP pings"
 	copyright = "Florian Forster"
 

@@ -1,5 +1,4 @@
 ---
-date: 2017-05-09T09:11:59+02:00
 title: "octo's ping library"
 ---
 

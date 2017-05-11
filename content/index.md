@@ -32,10 +32,10 @@ may change or be extended without applications noticing it.
 
 ## Download
 
-*   [liboping-1.9.0.tar.bz2](files/liboping-1.9.0.tar.bz2)<br>
-    <span style="font-size: smaller;">SHA-256: `44bb1d88b56b88fda5533edb3aa005c69b3cd396f20453a157d7e31e536f3530`</span>
-*   [liboping-1.9.0.tar.gz](files/liboping-1.9.0.tar.gz)<br>
-    <span style="font-size: smaller;">SHA-256: `86b44f684a3151bd4b5b75336876635ecb0f6cfe54a2fb29a6da06432f2dbb00`</span>
+*   [liboping-1.10.0.tar.bz2](files/liboping-1.10.0.tar.bz2)<br>
+    <span style="font-size: smaller;">SHA-256: `eb38aa93f93e8ab282d97e2582fbaea88b3f889a08cbc9dbf20059c3779d5cd8`</span>
+*   [liboping-1.10.0.tar.gz](files/liboping-1.10.0.tar.gz)<br>
+    <span style="font-size: smaller;">SHA-256: `c206b05743d0730814be3115b48abd0b00016677525153c78730da307aba0846`</span>
 
 ## Contributing
 

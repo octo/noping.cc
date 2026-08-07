@@ -24,6 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.91.2
+      BASE_URL: ${{ steps.pages.outputs.base_url }}
     steps:
       - name: Install Hugo CLI
         run: |
@@ -44,11 +45,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --config hugo.yaml --gc --minify --baseURL "${BASE_URL}/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
